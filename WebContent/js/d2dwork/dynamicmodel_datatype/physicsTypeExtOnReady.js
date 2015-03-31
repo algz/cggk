@@ -1,0 +1,1 @@
+Ext.onReady(physicsTypeMain.initViewport, physicsTypeMain);

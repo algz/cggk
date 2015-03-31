@@ -1,0 +1,1 @@
+Ext.onReady(extendTypeMain.initViewport, extendTypeMain)

@@ -1,0 +1,1 @@
+Ext.onReady(enumTypeMain.initViewport, enumTypeMain)
